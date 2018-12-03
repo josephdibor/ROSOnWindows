@@ -111,7 +111,7 @@ In one command window, start `roscore`.
 In another command window, start the simulation environment.
 
 ```
-roslaunch turtlebot3_simulations turtlebot3_fake.launch
+roslaunch turtlebot3_fake turtlebot3_fake.launch
 ```
 
 You can create your own logic which reads `/odom` or publish `/cmd_vel` to move the virtual robot.
