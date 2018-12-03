@@ -104,7 +104,7 @@ c:\ws\turtlebot3\install\setup.bat
 
 ## No Robot - No Problem!
 rViz is tool which allows you to visualize a representation of a robot, and project fake data in order to exerise or develop logic. The turtlebot simulation is
-in the turtlebot3_simulations package. 
+in the turtlebot3_fake package. 
 
 In one command window, start `roscore`.
 
